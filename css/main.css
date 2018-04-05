@@ -28,7 +28,7 @@ html {
 }
 
 .nav a span {
-  border-bottom: .3rem solid #ff0;
+  border-bottom: .3rem solid #c2c2c2;
 }
 
 .nav a:hover span,
