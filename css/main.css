@@ -37,12 +37,13 @@ html {
 }
 
 .nav a:focus {
-  outline: #fff;
+  outline: 3px solid #fff;
 }
 
 .banner {
   min-height: 16em;
   color: #fff;
+  background-color: #522806;
 }
 
 .card {
@@ -66,6 +67,10 @@ html {
 .btn-banner {
   border-color: #bea59b;
   color: #fff;
+}
+
+.banner-content a:focus {
+  outline-color: #fff;
 }
 
 .btn-banner:hover,
@@ -96,8 +101,4 @@ html {
     min-height: 0;
   }
 
-}
-
-h2 {
-  color: #fff
 }
